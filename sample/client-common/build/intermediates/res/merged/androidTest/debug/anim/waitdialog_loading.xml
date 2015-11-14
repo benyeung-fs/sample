@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+	xmlns:android="http://schemas.android.com/apk/res/android"
+  	android:oneshot="false">
+    <item android:drawable="@drawable/waitdialog_1" android:duration="200"/>
+    <item android:drawable="@drawable/waitdialog_2" android:duration="200"/>
+    <item android:drawable="@drawable/waitdialog_3" android:duration="200"/>
+    <item android:drawable="@drawable/waitdialog_4" android:duration="200"/>
+    <item android:drawable="@drawable/waitdialog_5" android:duration="200"/>
+    <item android:drawable="@drawable/waitdialog_6" android:duration="200"/>
+    <item android:drawable="@drawable/waitdialog_7" android:duration="200"/>
+    <item android:drawable="@drawable/waitdialog_8" android:duration="200"/>
+</animation-list><!-- From: file:/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/anim/waitdialog_loading.xml --><!-- From: file:/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/build/intermediates/bundles/debug/res/anim/waitdialog_loading.xml -->

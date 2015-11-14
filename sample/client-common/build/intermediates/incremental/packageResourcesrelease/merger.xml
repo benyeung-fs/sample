@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res"><file name="base_slide_right_in" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/anim/base_slide_right_in.xml" qualifiers="" type="anim"/><file name="base_slide_right_out" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/anim/base_slide_right_out.xml" qualifiers="" type="anim"/><file name="fade_in" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/anim/fade_in.xml" qualifiers="" type="anim"/><file name="fade_out" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/anim/fade_out.xml" qualifiers="" type="anim"/><file name="push_left_in" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/anim/push_left_in.xml" qualifiers="" type="anim"/><file name="push_left_out" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/anim/push_left_out.xml" qualifiers="" type="anim"/><file name="waitdialog_loading" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/anim/waitdialog_loading.xml" qualifiers="" type="anim"/><file name="default_image" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable/default_image.png" qualifiers="" type="drawable"/><file name="ic_actionbar_back" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/ic_actionbar_back.png" qualifiers="hdpi" type="drawable"/><file name="ic_delete_gray" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/ic_delete_gray.png" qualifiers="hdpi" type="drawable"/><file name="waitdialog_1" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/waitdialog_1.png" qualifiers="hdpi" type="drawable"/><file name="waitdialog_2" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/waitdialog_2.png" qualifiers="hdpi" type="drawable"/><file name="waitdialog_3" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/waitdialog_3.png" qualifiers="hdpi" type="drawable"/><file name="waitdialog_4" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/waitdialog_4.png" qualifiers="hdpi" type="drawable"/><file name="waitdialog_5" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/waitdialog_5.png" qualifiers="hdpi" type="drawable"/><file name="waitdialog_6" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/waitdialog_6.png" qualifiers="hdpi" type="drawable"/><file name="waitdialog_7" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/waitdialog_7.png" qualifiers="hdpi" type="drawable"/><file name="waitdialog_8" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/waitdialog_8.png" qualifiers="hdpi" type="drawable"/><file name="xlistview_arrow" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-hdpi/xlistview_arrow.png" qualifiers="hdpi" type="drawable"/><file name="ic_actionbar_back" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-mdpi/ic_actionbar_back.png" qualifiers="mdpi" type="drawable"/><file name="ic_delete_gray" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-mdpi/ic_delete_gray.png" qualifiers="mdpi" type="drawable"/><file name="ic_actionbar_back" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-xhdpi/ic_actionbar_back.png" qualifiers="xhdpi" type="drawable"/><file name="ic_delete_gray" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-xhdpi/ic_delete_gray.png" qualifiers="xhdpi" type="drawable"/><file name="ic_actionbar_back" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-xxhdpi/ic_actionbar_back.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_delete_gray" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-xxhdpi/ic_delete_gray.png" qualifiers="xxhdpi" type="drawable"/><file name="ic_actionbar_back" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-xxxhdpi/ic_actionbar_back.png" qualifiers="xxxhdpi" type="drawable"/><file name="ic_delete_gray" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/drawable-xxxhdpi/ic_delete_gray.png" qualifiers="xxxhdpi" type="drawable"/><file name="actionbar_default" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/layout/actionbar_default.xml" qualifiers="" type="layout"/><file name="dialog_wait" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/layout/dialog_wait.xml" qualifiers="" type="layout"/><file name="xlistview_footer" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/layout/xlistview_footer.xml" qualifiers="" type="layout"/><file name="xlistview_header" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/layout/xlistview_header.xml" qualifiers="" type="layout"/><file name="allcity" path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/raw/allcity.json" qualifiers="" type="raw"/><file path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/values/attrs.xml" qualifiers=""><declare-styleable name="RoundedImageView">
+        <attr format="dimension" name="riv_corner_radius"/>
+        <attr format="dimension" name="riv_corner_radius_top_left"/>
+        <attr format="dimension" name="riv_corner_radius_top_right"/>
+        <attr format="dimension" name="riv_corner_radius_bottom_left"/>
+        <attr format="dimension" name="riv_corner_radius_bottom_right"/>
+        <attr format="dimension" name="riv_border_width"/>
+        <attr format="color" name="riv_border_color"/>
+        <attr format="boolean" name="riv_mutate_background"/>
+        <attr format="boolean" name="riv_oval"/>
+        <attr name="android:scaleType"/>
+        <attr name="riv_tile_mode">
+            <enum name="clamp" value="0"/>
+            <enum name="repeat" value="1"/>
+            <enum name="mirror" value="2"/>
+        </attr>
+        <attr name="riv_tile_mode_x">
+            <enum name="clamp" value="0"/>
+            <enum name="repeat" value="1"/>
+            <enum name="mirror" value="2"/>
+        </attr>
+        <attr name="riv_tile_mode_y">
+            <enum name="clamp" value="0"/>
+            <enum name="repeat" value="1"/>
+            <enum name="mirror" value="2"/>
+        </attr>
+    </declare-styleable><declare-styleable name="CircleImageView">
+        <attr format="dimension" name="border_width"/>
+        <attr format="color" name="border_color"/>
+        <attr format="boolean" name="border_overlay"/>
+    </declare-styleable></file><file path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/values/colors.xml" qualifiers=""><color name="actionbar_textColor">#fff</color><color name="waterBtn_bgColor">#FFFFFF</color><color name="waterBtn_fgColor">#3086E4</color></file><file path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/values/dimens.xml" qualifiers=""><dimen name="actionbar_back">18dp</dimen><dimen name="actionbar_title">20dp</dimen></file><file path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/values/strings.xml" qualifiers=""><string name="xlistview_footer_hint_normal">查看更多</string><string name="xlistview_header_hint_normal">下拉刷新</string><string name="xlistview_header_last_time">上次更新时间：</string><string name="xlistview_footer_hint_ready">松开载入更多</string><string name="xlistview_header_hint_ready">松开刷新数据</string><string name="xlistview_header_hint_loading">正在加载...</string><string name="app_name">client-common</string><string name="exit_app_tip">再按一次退出程序</string><string name="actionbar_titleText">标题</string><string name="actionbar_backText">返回</string><string name="waitdialog_tip">加载中...</string></file><file path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/main/res/values/styles.xml" qualifiers=""><style name="common_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowIsFloating">true</item>
+        <!-- 设置未浮动窗口 -->
+        <item name="android:windowFrame">@null</item>
+        <!-- 设置无边框 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 设置无标题 -->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <!-- 设置完全透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 设置屏幕变暗 -->
+    </style><style name="CustomProgressDialog" parent="@style/CustomDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style><style name="CustomDialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+    </style><style name="Animation.Activity.Default" parent="@android:style/Animation.Activity">
+        <!-- Activity A跳转到Activity B时, Activity B进入动画 -->
+        <item name="android:activityOpenEnterAnimation">@anim/push_left_in</item>
+        <!-- Activity A跳转到Activity B时, Activity A退出动画 -->
+        <item name="android:activityOpenExitAnimation">@anim/push_left_out</item>
+        <!-- Activity B返回到Activity A时, Activity A进入动画 -->
+        <item name="android:activityCloseEnterAnimation">@anim/base_slide_right_in</item>
+        <!-- Activity B返回到Activity A时, Activity B退出动画 -->
+        <item name="android:activityCloseExitAnimation">@anim/base_slide_right_out</item>
+    </style></file></source><source path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/build/generated/res/rs/release"/><source path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/build/generated/res/resValues/release"/></dataSet><dataSet config="release"><source path="/Users/chenyingxin/Documents/myGithub/sample/sample/client-common/src/release/res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CircleImageView"><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="border_overlay"/></declare-styleable><declare-styleable name="RoundedImageView"><attr format="dimension" name="riv_corner_radius"/><attr format="dimension" name="riv_corner_radius_top_left"/><attr format="dimension" name="riv_corner_radius_top_right"/><attr format="dimension" name="riv_corner_radius_bottom_left"/><attr format="dimension" name="riv_corner_radius_bottom_right"/><attr format="dimension" name="riv_border_width"/><attr format="color" name="riv_border_color"/><attr format="boolean" name="riv_mutate_background"/><attr format="boolean" name="riv_oval"/><attr name="android:scaleType"/><attr name="riv_tile_mode"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_x"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr><attr name="riv_tile_mode_y"><enum name="clamp" value="0"/><enum name="repeat" value="1"/><enum name="mirror" value="2"/></attr></declare-styleable></configuration></mergedItems></merger>

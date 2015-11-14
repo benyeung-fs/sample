@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.daking.app.sample" >
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.BATTERY_STATS" />
+    <!-- 读取短信权限 -->
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <!-- 收取短信权限 -->
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <!-- 读取通讯录联系人权限 -->
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+
+    <!-- 支持多分辨率 -->
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_logo"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <meta-data
+            android:name="isDebug"
+            android:value="true" />
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="I3GtpCc60Uf9IGAF6oRs0Rpm" />
+
+        <activity
+            android:name=".MainActivity"
+            android:clearTaskOnLaunch="true"
+            android:label="@string/act_main_name"
+            android:launchMode="singleTask" />
+        <activity android:name=".LauncherActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".view.baidu.BDLocationActivity" />
+        <activity android:name=".view.scrollview.RelationScrollViewActivity" />
+        <activity android:name=".view.listview.RelationListViewActivity" />
+        <activity android:name=".view.photo.CameraActivity" />
+        <activity android:name=".view.photo.ImageStoreActivity" />
+        <activity android:name=".view.photo.GalleryActivity" />
+        <activity android:name=".view.data.SharedPreferencesActivity" />
+        <activity android:name=".view.listview.RefreshSwipeListView" />
+        <activity android:name=".view.viewpager.tabmenu.TabMenuActivity" />
+        <activity android:name=".view.service.ServiceLifeActivity" />
+        <activity android:name=".view.alert.AlertActivity" />
+        <activity android:name=".view.service.ServiceTestActivity" />
+
+        <service
+            android:name=".view.service.LifeService"
+            android:enabled="true"
+            android:exported="true" />
+        <service
+            android:name=".view.service.TestIntentService"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.daking.app.sample.view.service.TestIntentService" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".view.service.FgService"
+            android:enabled="true" />
+        <service
+            android:name=".view.service.BgService"
+            android:enabled="true"
+            android:exported="true" >
+        </service>
+
+        <receiver
+            android:name=".view.service.AlarmReceiver"
+            android:enabled="true"
+            android:exported="true" >
+        </receiver>
+        <receiver
+            android:name=".mgr.broadcast.SystemReceiver"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="ANDROID.INTENT.ACTION.BATTERY_CHANGED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="ANDROID.INTENT.ACTION.AIRPLANE_MODE" />
+            </intent-filter>
+        </receiver>
+
+        <activity android:name=".view.broadcast.BroadcastTestActivity" >
+        </activity>
+        <activity android:name=".view.debug.LogActivity" >
+        </activity>
+        <activity android:name=".view.data.ContentProviderActivity" >
+        </activity>
+        <activity android:name=".view.data.SQLiteActivity"/>
+
+        <receiver
+            android:name=".view.broadcast.SmsReceiver"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter android:priority="999">
+                <action android:name="android.provider.Telephony.SMS_RECEIVED"/>
+            </intent-filter>
+        </receiver>
+
+        <service android:name=".view.service.ProcessService"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":sampleProcess1"/>
+    </application>
+
+</manifest>

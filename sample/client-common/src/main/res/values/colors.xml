@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_textColor">#fff</color>
+
+    <color name="waterBtn_bgColor">#FFFFFF</color>
+    <color name="waterBtn_fgColor">#3086E4</color>
+</resources>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/exploded-aar/sample/client-common/unspecified/jars/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-49ed6d90c6ccb674514da17955aee2a27c6723f3.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/classes-75a131a20f2d30855cba391f0e97fc5f701fa665.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/exploded-aar/sample/client-common/unspecified/jars/libs/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/gson-2.3.1-7a0793c600d088f9f0cccec77004d1f4bb270397.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.8/77bbfe240e437ecb396d982afa0d3bd4f9090ba7/android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8-9478e68d63c8ec86da1796028481178366fb97b8.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-579b4d1d40ad2267312c9fecf4ade3208b0f274a.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/classes-ba4e76616f1beebc8534ea54720450e5d676aec5.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4-64ab4625caffe1bc245f3bfa72e6df63262f6a82.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-8ccbba7433088521cd38770858ad4cabd39d5a99.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/classes-0a8ed9bcd4153dddf20529dc29e131aa707dfc04.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android-no-op/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f12b73a85d00136c8180f7763334beb9cb3f4d49">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/classes-1c816212d7532a2e19815970ff79c3b3c8b28253.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/exploded-aar/sample/client-common/unspecified/jars/libs/BaiduLBS_Android.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1e366e13f15d7256c59b37eaffadab1df049c745">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/BaiduLBS_Android-f777484595b7906a3516b62e60639351f4ef8111.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/exploded-aar/sample/client-common/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="bab1e1a9bacc82f9863fb85cd549f4a1135ae102">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/classes-3486f93b0f42607e7f436767fd895c9be2195a12.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/exploded-aar/com.android.support/percent/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="928b73afabcd116944e9487771d4121168eac1a4">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/classes-f36d3eb3015d30591de6a34629378f7a5ad9dcc8.jar" />
+    </item>
+    <item
+        jar="/Users/chenyingxin/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="ddd166d01b3158d1c00576d29f7ed15c030df719">
+        <dex dex="/Users/chenyingxin/Documents/myGithub/sample/sample/app/build/intermediates/pre-dexed/debug/eventbus-2.4.0-57aed2c34e4b1ff45d4bc90017866a6bf8651baf.jar" />
+    </item>
+
+</items>

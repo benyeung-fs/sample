@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.daking.app.sample.view.service.ServiceLifeActivity">
+
+    <TextView
+        android:id="@+id/tv_serviceLife_msg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:textColor="#000"/>
+
+    <Button
+        android:id="@+id/btn_serviceLife_start"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="18sp"
+        android:textColor="#000"
+        android:text="@string/act_serviceLife_start"/>
+
+    <Button
+        android:id="@+id/btn_serviceLife_stop"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="18sp"
+        android:textColor="#000"
+        android:text="@string/act_serviceLife_stop"/>
+
+    <Button
+        android:id="@+id/btn_serviceLife_bind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="18sp"
+        android:textColor="#000"
+        android:text="@string/act_serviceLife_bind"/>
+
+    <Button
+        android:id="@+id/btn_serviceLife_unbind"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="18sp"
+        android:textColor="#000"
+        android:text="@string/act_serviceLife_unbind"/>
+
+    <Button
+        android:id="@+id/btn_serviceLife_act"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:textSize="18sp"
+        android:textColor="#000"
+        android:text="@string/act_serviceLife_act"/>
+
+
+</LinearLayout>
+<!-- From: file:/Users/chenyingxin/Documents/myGithub/sample/sample/app/src/main/res/layout/activity_servicelife.xml -->

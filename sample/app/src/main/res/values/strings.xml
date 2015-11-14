@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">daking</string>
+
+    <string name="act_main_name">主界面</string>
+    <string name="act_bdlocation_name">百度定位</string>
+    <string name="act_serviceLife_name">Service生命周期</string>
+    <string name="act_serviceTest_name">Service测试</string>
+    <string name="act_broadcastTest_name">广播测试</string>
+    <string name="act_relationScrollView_name">联动ScrollView</string>
+    <string name="act_relationListView_name">联动ListView</string>
+    <string name="act_camera_name">照相机</string>
+    <string name="act_imageStore_name">MediaStore图像</string>
+    <string name="act_gallery_name">Gallery</string>
+    <string name="act_sharedPrefer_name">偏好设定</string>
+    <string name="act_tabmenu_name">底部导航栏</string>
+    <string name="act_alert_name">通知式控件</string>
+    <string name="act_contentProvider_name">常用ContentProvider</string>
+    <string name="act_sqlite_name">SQLite</string>
+
+
+    <string name="act_bdlocation_btn1">开始定位</string>
+    <string name="act_bdlocation_btn2">结束定位</string>
+    <string name="act_bdlocation_tvMsg">定位信息如下:\n</string>
+
+    <string name="act_relationScrollView_txt">文言文是以古汉语为基础经过加工的书面语。最早根据口语写成的书面语中可能就已经有了加工。文言文是中国古代的一种书面语言组成的文章，主要包括以先秦时期的口语为基础而形成的书面语。春秋战国时期，用于记载文字的物品还未被发明，记载文字用的是竹简、丝绸等物，而丝绸价格昂贵、竹简笨重且记录的字数有限，为能在“一卷”竹简上记下更多事情，就将不重要的字删掉。后来当“纸”大规模使用时，统治阶级的来往“公文”使用习惯已经定型，会用“文言文”已经演变成读书识字的象征。文言文是相对白话文而来的，其特征是以文字为基础来写作，注重典故、骈骊对仗、音律工整且不使用标点，包含策、诗、词、曲、八股、骈文古文等多种文体。现代书籍中的文言文，为了便于阅读理解，一般都会对其标注标点符号。</string>
+
+    <string name="act_camera_rb1">缩略图</string>
+    <string name="act_camera_rb2">输出sd卡</string>
+    <string name="act_camera_rb3">内容提供器</string>
+    <string name="act_camera_rb4">打开照相机</string>
+    <string name="act_camera_btnOpen">打开照相机</string>
+
+    <string name="act_gallery_btnPick">选择图像</string>
+    <string name="act_gallery_tip">未找到此图片</string>
+
+    <string name="act_sharedPrefer_btn1">设置口令</string>
+    <string name="act_sharedPrefer_btn2">获取口令</string>
+    <string name="act_sharedPrefer_btn3">删除口令</string>
+
+    <string name="tab_menu_alert">提醒</string>
+    <string name="tab_menu_profile">信息</string>
+    <string name="tab_menu_pay">我的</string>
+    <string name="tab_menu_setting">设置</string>
+
+    <string name="act_serviceLife_start">启动服务</string>
+    <string name="act_serviceLife_stop">停止服务</string>
+    <string name="act_serviceLife_bind">绑定服务</string>
+    <string name="act_serviceLife_unbind">取消绑定</string>
+    <string name="act_serviceLife_act">新界面</string>
+
+    <string name="act_serviceTest_intentService">IntentService</string>
+    <string name="act_serviceTest_startFg">启动前台服务</string>
+    <string name="act_serviceTest_stopFg">停止前台服务</string>
+    <string name="act_serviceTest_startBg">启动后台轮询</string>
+    <string name="act_serviceTest_stopBg">停止后台轮询</string>
+    <string name="act_serviceTest_startProcess">开启独立进程</string>
+    <string name="act_serviceTest_stopProcess">停止独立进程</string>
+
+    <string name="act_alert_showNotice">显示Notification</string>
+    <string name="act_alert_closeNotice">关闭Notification</string>
+
+    <string name="act_broadcastTest_reg">动态注册广播</string>
+    <string name="act_broadcastTest_unreg">动态注销广播</string>
+
+    <string name="act_contentProvider_allSms">查看所有短信</string>
+    <string name="act_contentProvider_allPhone">查看所有联系人</string>
+    <string name="act_contentProvider_addPhone">添加联系人</string>
+
+    <string name="act_sqlite_btnInsert">插入一条记录</string>
+    <string name="act_sqlite_btnDelete">删除最后一条记录</string>
+    <string name="act_sqlite_btnQuery">查询所有记录</string>
+    <string name="act_sqlite_btnUpdate">更新最后一条记录</string>
+</resources>
